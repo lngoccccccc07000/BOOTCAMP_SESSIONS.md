@@ -1,0 +1,2 @@
+# BOOTCAMP_SESSIONS.md
+docs
